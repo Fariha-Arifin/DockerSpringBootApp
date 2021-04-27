@@ -24,7 +24,7 @@ docker run hello-world
 ```
 ```
 #Build a docker image with a name. Name should be appear in all lower case letter 
-docker build -t imagename
+docker build -t imagename .
 ```
 ```
 # Check availabe docker images
