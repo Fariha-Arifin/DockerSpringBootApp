@@ -10,9 +10,9 @@ java -jar dockerSpringBoot-0.0.1-SNAPSHOT.jar
 - Create a file in project directory name Dockerfile where we basically write commands. These commands help to deploy containers
 - Build docker image
 - Run docker container
-- After those steps you can find out your docker image from docker desktop app. here is mine :
+- After successfully finish those steps you can find out your docker image from docker desktop app. Here is mine :
 
-<img src="https://user-images.githubusercontent.com/25477302/116754196-27528580-aa2a-11eb-8c12-9d5aa4fade1b.PNG" width="15%"></img>
+<img src="https://user-images.githubusercontent.com/25477302/116754196-27528580-aa2a-11eb-8c12-9d5aa4fade1b.PNG" width="100%"></img>
 
 
 ## Useful commands :
